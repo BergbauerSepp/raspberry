@@ -17,4 +17,4 @@ Beispielausgabe bei Mailversand über Cron
 2688000+0 Datensätze aus
 11010048000 bytes (11 GB, 10 GiB) copied, 122,332 s, 90,0 MB/s
 sudo: pushd: Befehl nicht gefunden
-/home/pi/bin/backup.sh: Zeile 40: popd: Der Verzeichnisstapel ist leer. 
+/home/pi/bin/backup.sh: Zeile 40: popd: Der Verzeichnisstapel ist leer.
