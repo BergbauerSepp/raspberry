@@ -1,13 +1,13 @@
 
-BackupSkript fürn Raspberry. alle modele.
+## BackupSkript fürn Raspberry. alle modele.
 
 Abhängigkeiten:
 
 $ apt install pigz
 
 
-Beispielausgabe bei Mailversand über Cron
-------------------------------------------
+### Beispielausgabe bei Mailversand über Cron
+
 /boot: 191,6 MiB (200923648 bytes) trimmed on /dev/sda1\
 /mnt/SanDisk: 102,2 GiB (109782630400 bytes) trimmed on /dev/sda3\
 /: 4,9 GiB (5230833664 bytes) trimmed on /dev/sda2\
